@@ -1,4 +1,6 @@
-# Next.js SaaS + RBAC
+**Tags**: #Autenticação&autorização #CSS #Docker #Fastify #JavaScript #Markdown #Monorepo #Nextjs #Node #Permissionamento #Prisma #React #SaaS #Tailwind #TypeScript #Zod
+
+#SaaS_RBAC_System # Next.js SaaS + RBAC
 
 This project contains all the necessary boilerplate to setup a multi-tenant SaaS with Next.js including authentication and RBAC authorization.
 
