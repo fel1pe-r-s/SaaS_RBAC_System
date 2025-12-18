@@ -1,4 +1,4 @@
-**Tags**: #Autenticação&autorização #CSS #Docker #Fastify #JavaScript #Markdown #Monorepo #Nextjs #Node #Permissionamento #Prisma #React #SaaS #Tailwind #TypeScript #Zod
+**Tags**: #Autenticação&autorização #CSS #Database #Docker #Fastify #JavaScript #Markdown #Monorepo #Nextjs #Node #Permissionamento #Prisma #React #SaaS #Tailwind #TypeScript #Zod
 
 #SaaS_RBAC_System # Next.js SaaS + RBAC
 
