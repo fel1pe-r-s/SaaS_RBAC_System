@@ -1,21 +1,40 @@
 {
-    "name": "@saas/env",
-    "version": "0.0.0",
-    "private": true,
-    "main": "index.ts",
-    "types": "index.ts",
-    "devDependencies": {
-      "@saas/eslint-config": "workspace:*",
-      "@saas/tsconfig": "workspace:*",
-      "@types/node": "^20.12.6"
-    },
-    "eslintConfig": {
-      "extends": [
-        "@saas/eslint-config/library"
-      ]
-    },
-    "dependencies": {
-      "@t3-oss/env-nextjs": "^0.9.2",
-      "zod": "^3.22.4"
-    }
-  }
+  "name": "@saas/env",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.ts",
+  "types": "index.ts",
+  "devDependencies": {
+    "@saas/eslint-config": "workspace:*",
+    "@saas/tsconfig": "workspace:*",
+    "@types/node": "^20.12.6"
+  },
+  "eslintConfig": {
+    "extends": [
+      "@saas/eslint-config/library"
+    ]
+  },
+  "dependencies": {
+    "@t3-oss/env-nextjs": "^0.9.2",
+    "zod": "^3.22.4"
+  },
+  "description": "This project contains all the necessary boilerplate to setup a multi-tenant SaaS with Next.js including authentication and RBAC authorization.",
+  "keywords": [
+    "autentica\u00e7\u00e3o",
+    "css",
+    "docker",
+    "fastify",
+    "javascript",
+    "markdown",
+    "monorepo",
+    "nextjs",
+    "node",
+    "permissionamento",
+    "prisma",
+    "react",
+    "saas",
+    "tailwind",
+    "typescript",
+    "zod"
+  ]
+}
